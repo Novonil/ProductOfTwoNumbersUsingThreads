@@ -1,16 +1,3 @@
-/*
-===================================================================================
-***********************************************************************************
-		Filenames:		Source.c, single_thread.c
-		Team Members:	NOVONIL DAS & PARTH PADALKAR
-		UTD_ID:			2021477505 & 2021473758
-		NetID:			NXD180022 & PXP180054
-		Class:			Operating Systems
-		Project:		Project # 2 (Multiplication of Large Numbers)
-***********************************************************************************
-===================================================================================
-*/
-
 Input Files:
 
 A.txt :This contains the 100,000 digit number to be multiplied.
